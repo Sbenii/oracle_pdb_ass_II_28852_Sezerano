@@ -43,7 +43,7 @@ After creating the PDB OPEN it and verify that the OPEN MODE should now show REA
 ALTER PLUGGABLE DATABASE se_pdb_28852 OPEN;
 SHOW PDBS;
 ```
-![PDB Verification](Screenshots/3.PDB_verification.png)
+![PDB Verification](Screenshots/3.PDB_Verification.png)
 
 The next step is about creating a new user in our PDB.
 
