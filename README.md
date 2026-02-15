@@ -131,5 +131,17 @@ Then login with the system credentials (the one you set during installation).
 ## Challenges encountered
 The only challenge encountered was logging in with the PDB user in Oracle Entreprise Manager. The solution to this was using the terminal and also adjusting to the listener to which our PDB was running on.
 
+## Final Checklist
+
+- [x] Correct PDB names used  
+- [x] User created inside the PDB  
+- [x] Temporary PDB created and deleted  
+- [x] OEM dashboard screenshot included  
+- [x] GitHub repository is PUBLIC  
+- [x] README is clear and professional  
+- [x] Deadline respected  
+
+
 #
 “All sources were properly cited. Implementations and analysis represent original work. No AI generated content was copied without attribution or adaptation.”
+
